@@ -1,0 +1,8 @@
+.alert-studio-container {
+    display: flex;
+  }
+  
+  .content {
+    margin-left: 300px; /* Adjust the margin as needed */
+  }
+  
